@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: File Component (1) 
+permalink: /file-component_1.html        
 ---
 
 
