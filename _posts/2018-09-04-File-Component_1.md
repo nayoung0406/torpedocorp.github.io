@@ -1,6 +1,7 @@
 ---
 layout: post
-title: File Component (1)     
+title: File Component (1)
+tags: [A Tag, Test, Lorem, Ipsum]
 ---
 
 
